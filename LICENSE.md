@@ -1,4 +1,4 @@
-# 
+# Premium AI leaf disease detection system outils. Avec IA explicable et entraînement de modèles — optimisé pour des performances maximales.
 
 
 
